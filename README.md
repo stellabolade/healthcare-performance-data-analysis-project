@@ -166,6 +166,5 @@ The cleaned dataset was used to build a performance dashboard in **Power BI** (s
 Data Analyst Intern — Dataverse Africa
 📅 March 2026
 
-*Project Lead — responsible for coordinating team deliverables, directing the cleaning approach, and presenting final outputs.*
 
 > *"A dataset that looks clean at first glance may still contain hidden issues that only become visible through careful investigation and thoughtful data preparation."*
