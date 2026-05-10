@@ -1,19 +1,36 @@
-# healthcare-performance-data-analysis-project
+# 🏥 Healthcare Performance Dataset — Data Cleaning and analysis Project
 
-**Author: Stella Omobolade Obase**
-March 2026
+**Stella Omobolade Obase**
+Dataverse Africa Internship | March 2026
 
 ---
 
 ## 📌 Project Overview
 
-This project involved a comprehensive data cleaning exercise on a healthcare performance dataset containing **5,000 patient encounter records**. The goal was to identify and resolve data quality issues; ranging from formatting inconsistencies to deep logical contradictions, and prepare the dataset for reliable analysis and dashboard development.
+This project involved a comprehensive data cleaning exercise on a healthcare performance dataset containing **5,000 patient encounter records**. The goal was to identify and resolve data quality issues — ranging from formatting inconsistencies to deep logical contradictions — and prepare the dataset for reliable analysis and dashboard development.
 
 **Tool Used:** Microsoft Excel
 **Deliverable:** Cleaned dataset + Power BI Dashboard
 
+---
 
-## Dataset Structure
+## 📂 Repository Structure
+
+```
+healthcare-performance-data-cleaning/
+│
+├── README.md
+├── report/
+│   └── HEALTHCARE_DATA_CLEANING_REPORT.pdf     ← Full documentation of cleaning steps
+├── data/
+│   └── healthcare_performance_dataset_Cleaned.xlsx  ← Final cleaned dataset
+└── dashboard/
+    └── Stella_Obase_Week_3.pbix                ← Power BI dashboard
+```
+
+---
+
+## 🗃️ Dataset Structure
 
 | Property | Detail |
 |---|---|
@@ -148,5 +165,7 @@ The cleaned dataset was used to build a performance dashboard in **Power BI** (s
 **Stella Omobolade Obase**
 Data Analyst Intern — Dataverse Africa
 📅 March 2026
+
+*Project Lead — responsible for coordinating team deliverables, directing the cleaning approach, and presenting final outputs.*
 
 > *"A dataset that looks clean at first glance may still contain hidden issues that only become visible through careful investigation and thoughtful data preparation."*
